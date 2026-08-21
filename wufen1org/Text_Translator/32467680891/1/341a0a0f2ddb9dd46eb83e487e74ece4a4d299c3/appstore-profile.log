@@ -1,0 +1,6 @@
+Bundle ID 资源匹配：com.acology.acolous.acoluthic -> DU7T3TGTMN
+证书查询结果：3 个 [ 'DEVELOPMENT', 'DISTRIBUTION', 'DISTRIBUTION' ]
+签名 profile 新建：bundleId=com.acology.acolous.acoluthic profile=appstore-com.acology.acolous.acoluthic-20260821092413457 [id=PFX3MVVB6P] uuid=9fabffce-b554-4ac8-8163-e0bc11221eab
+Bundle ID 资源匹配：com.acology.acolous.acoluthic.broadcast -> HVNTYCV8KU
+签名 profile 新建：bundleId=com.acology.acolous.acoluthic.broadcast profile=appstore-com.acology.acolous.acoluthic.broadcast-20260821092414042 [id=P4MAKFXZ66] uuid=01fdca35-5526-474b-a157-a159a16fa256
+签名 bundleIds: com.acology.acolous.acoluthic(appstoreconnect, uuid=9fabffce-b554-4ac8-8163-e0bc11221eab), com.acology.acolous.acoluthic.broadcast(appstoreconnect, uuid=01fdca35-5526-474b-a157-a159a16fa256)
