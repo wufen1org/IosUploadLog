@@ -1,0 +1,4 @@
+2026-08-21 10:00:41.302 xcodebuild[8134:26473] [MT] IDEDistribution: -[IDEDistributionLogging _createLoggingBundleAtPath:]: Created bundle at path "/var/folders/df/djsxfhc17x95674wsm_g8s980000gn/T/TextTranslator_2026-08-21_10-00-41.267.xcdistributionlogs".
+Exported TextTranslator to: /Users/runner/work/Text_Translator/Text_Translator/TextTranslator.ipa
+** EXPORT SUCCEEDED **
+
