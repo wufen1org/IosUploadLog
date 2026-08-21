@@ -1,0 +1,37 @@
+Command line invocation:
+    /Applications/Xcode_26.3.app/Contents/Developer/usr/bin/xcodebuild -list -workspace /Users/runner/work/Text_Translator/Text_Translator/TextTranslator.xcworkspace
+
+Information about workspace "TextTranslator":
+    Schemes:
+        GoogleDataTransport
+        GoogleDataTransport-GoogleDataTransport_Privacy
+        GoogleMLKit
+        GoogleToolboxForMac
+        GoogleToolboxForMac-GoogleToolboxForMac_Logger_Privacy
+        GoogleToolboxForMac-GoogleToolboxForMac_Privacy
+        GoogleUtilities
+        GoogleUtilities-GoogleUtilities_Privacy
+        GTMSessionFetcher
+        GTMSessionFetcher-GTMSessionFetcher_Core_Privacy
+        MLKitCommon
+        MLKitNaturalLanguage
+        MLKitTranslate
+        MLKitTranslate-MLKitTranslate_resource
+        nanopb
+        nanopb-nanopb_Privacy
+        Pods-TextTranslator
+        Pods-TextTranslator_Test
+        Pods-TextTranslator_TestBroadcast
+        Pods-TextTranslatorBroadcast
+        Pods-TextTranslatorTests
+        PromisesObjC
+        PromisesObjC-FBLPromises_Privacy
+        SSZipArchive
+        SSZipArchive-SSZipArchive
+        SubscriptionKit
+        TextTranslator
+        TextTranslator_Test
+        UMAPM
+        UMCommon
+        UMDevice
+

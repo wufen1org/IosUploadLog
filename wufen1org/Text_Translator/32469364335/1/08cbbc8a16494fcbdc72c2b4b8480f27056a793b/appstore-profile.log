@@ -1,0 +1,8 @@
+Bundle ID 资源匹配：com.acology.acolous.acoluthic -> DU7T3TGTMN
+证书查询结果：3 个 [ 'DEVELOPMENT', 'DISTRIBUTION', 'DISTRIBUTION' ]
+签名 profile 新建：bundleId=com.acology.acolous.acoluthic profile=appstore-com.acology.acolous.acoluthic-20260821094527724 [id=V2HSX8RKP4] uuid=15976128-89d8-44bb-b04c-adab9d76e23c
+Bundle ID 资源匹配：com.acology.acolous.acoluthic.broadcast -> HVNTYCV8KU
+签名 profile 新建：bundleId=com.acology.acolous.acoluthic.broadcast profile=appstore-com.acology.acolous.acoluthic.broadcast-20260821094528229 [id=5C6ZX38Y8M] uuid=0a1027a1-ac7b-40e8-98c8-014db25bbc59
+Bundle ID 资源匹配：com.acology.acolous.acoluthic.DefaultTranslationProvider -> 4SJ9MZZQJQ
+签名 profile 新建：bundleId=com.acology.acolous.acoluthic.DefaultTranslationProvider profile=appstore-com.acology.acolous.acoluthic.DefaultTranslationProvider-20260821094528658 [id=BFWZLN9MTQ] uuid=3436bc73-fedf-4de9-91d2-f0716e467a81
+签名 bundleIds: com.acology.acolous.acoluthic(appstoreconnect, uuid=15976128-89d8-44bb-b04c-adab9d76e23c), com.acology.acolous.acoluthic.broadcast(appstoreconnect, uuid=0a1027a1-ac7b-40e8-98c8-014db25bbc59), com.acology.acolous.acoluthic.DefaultTranslationProvider(appstoreconnect, uuid=3436bc73-fedf-4de9-91d2-f0716e467a81)

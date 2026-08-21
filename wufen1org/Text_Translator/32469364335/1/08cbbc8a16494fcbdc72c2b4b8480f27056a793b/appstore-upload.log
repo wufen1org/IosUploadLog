@@ -1,0 +1,15 @@
+Running altool at path '/Applications/Xcode_26.3.app/Contents/SharedFrameworks/ContentDelivery.framework/Resources/altool'...
+
+2026-08-21 09:49:30.769 ERROR: [ContentDelivery.Uploader.10503ADF0] 
+=======================================
+UPLOAD FAILED with 1 error
+=======================================
+2026-08-21 09:49:30.772 ERROR: [altool.10503ADF0] Validation failed (409) Invalid Info.plist value. The Info.plist key UIBackgroundModes contains an invalid value: 'picture-in-picture'. For more information, refer to the Information Property List Key Reference. (ID: 2d14281b-bd43-4120-b389-90ec8b48479f)
+   NSUnderlyingError : Validation failed (-19241) Invalid Info.plist value. The Info.plist key UIBackgroundModes contains an invalid value: 'picture-in-picture'. For more information, refer to the Information Property List Key Reference.
+      status : 409
+      detail : Invalid Info.plist value. The Info.plist key UIBackgroundModes contains an invalid value: 'picture-in-picture'. For more information, refer to the Information Property List Key Reference.
+      id : 2d14281b-bd43-4120-b389-90ec8b48479f
+      code : STATE_ERROR.VALIDATION_ERROR
+      title : Validation failed
+   iris-code : STATE_ERROR.VALIDATION_ERROR
+Failed to upload package.
